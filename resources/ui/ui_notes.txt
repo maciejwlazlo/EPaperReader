@@ -1,0 +1,2 @@
+- All shape inner strokes must be 2 px
+- Reserve the top 30 pixels for Status Bar
